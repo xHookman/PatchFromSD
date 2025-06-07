@@ -70,5 +70,4 @@ Do not use it to bypass copyright, licensing, or distribution rights.
 
 ## Author
 
-Project by [xHookman]  
 GitHub: [https://github.com/YourUsername](https://github.com/xHookman/)
