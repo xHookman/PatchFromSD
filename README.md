@@ -23,7 +23,7 @@ PatchToSD allows you to:
 - Automatically patch each frame in the HD video with clean data from the SD video
 - Keep the original HD video quality and audio intact
 
-  For Center Parc's videos, download each HD videos with the pink download button (official way) and right click on the video to download the SD version.
+# For Center Parc's videos, download each HD videos with the pink download button (official way) and right click on the video to download the SD version.
 
 ## Requirements
 
