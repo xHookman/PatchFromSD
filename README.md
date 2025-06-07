@@ -70,4 +70,4 @@ Do not use it to bypass copyright, licensing, or distribution rights.
 
 ## Author
 
-GitHub: [https://github.com/YourUsername](https://github.com/xHookman/)
+GitHub: [https://github.com/xHookman](https://github.com/xHookman/)
