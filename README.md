@@ -16,7 +16,7 @@ PatchToSD is a Python tool that batch-processes HD videos to remove a watermark 
 
 ## Use Case
 
-You have HD videos with a watermark, and the same videos in lower-quality SD without the watermark.
+You have HD videos with a watermark (like Center Parc's videos after you paid), and the same videos in lower-quality SD without the watermark.
 
 PatchToSD allows you to:
 - Select the watermark region once
@@ -29,17 +29,6 @@ PatchToSD allows you to:
 - FFmpeg (installed and in PATH)
 - Python libraries:
   pip install opencv-python tqdm
-
----
-
-## Recommended Folder Structure
-
-PatchToSD/
-├── videos_hd/        # HD videos with watermark
-├── videos_sd/        # SD videos without watermark
-├── output/           # Clean output videos
-├── temp_frames/      # Temporary folder used by the script
-├── PatchToSD.py      # Main script
 
 ---
 
