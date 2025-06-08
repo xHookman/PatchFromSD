@@ -1,9 +1,5 @@
 # PatchFromSD
 
-PatchToSD is a Python tool that batch-processes videos to replace a defined region with the same area extracted from another video (useful to remove a watermark or overlay if you have an SD version of the same video, Center Parc's videos for example).
-
----
-
 ## Features
 
 - Replace a specific region in HD video frames with the matching region from the SD video
@@ -18,7 +14,7 @@ PatchToSD is a Python tool that batch-processes videos to replace a defined regi
 
 You have HD videos with a watermark (like Center Parc's videos after you paid), and the same videos in lower-quality SD without the watermark.
 
-PatchToSD allows you to:
+PatchFromSD allows you to:
 - Select the watermark region once
 - Automatically patch each frame in the HD video with clean data from the SD video
 - Keep the original HD video quality and audio intact
@@ -38,7 +34,7 @@ PatchToSD allows you to:
 
 1. Place HD videos in videos_hd/ and SD videos in videos_sd/
 2. Run the script:
-   python PatchToSD.py
+   python PatchFromSD.py
 3. Select the watermark region using the graphical selector (mouse)
 4. The tool will automatically patch all matching video pairs (by name)
 
