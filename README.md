@@ -1,7 +1,5 @@
 # PatchFromSD
 
-## Features
-
 - Replace a specific region in HD video frames with the matching region from the SD video
 - Automatically matches HD/SD video pairs using a shared identifier in the filename
 - Frame-accurate processing, synced to SD video duration
